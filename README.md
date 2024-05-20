@@ -1,1 +1,1 @@
-https://github.com/Morgven/posmotri_v_okno
+https://github.com/krlgrek/posmotri_v_okno
